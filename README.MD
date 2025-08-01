@@ -47,7 +47,7 @@ The script will retrieve the relevant text, tables, and images and provide a det
 
 ![image alt](https://github.com/priyank766/Multimodel_RAG/blob/main/Screenshot%202025-08-01%20222314.png)
 
-# **"What is Gingivitis?"**
+# **"What is Tartar"**
 
 ![image alt](https://github.com/priyank766/Multimodel_RAG/blob/main/Screenshot%202025-08-01%20222421.png)
 
