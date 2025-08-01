@@ -1,0 +1,9 @@
+langchain
+unstructured[all-docs]
+pydantic
+lxml
+faiss-cpu
+google-generativeai
+langchain_google_genai
+langchain-community
+streamlit
