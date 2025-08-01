@@ -43,10 +43,13 @@ This script is designed to be used in a Google Colab environment.
 ### Example
 
 Given a veterinary PDF, you can ask a question like:
-
-> "What is Gingivitis?"
-
 The script will retrieve the relevant text, tables, and images and provide a detailed, model-generated answer. It can even display annotated images to support its response.
+
+![image alt](https://github.com/priyank766/Multimodel_RAG/blob/main/Screenshot%202025-08-01%20222314.png)
+
+# **"What is Gingivitis?"**
+
+![image alt](https://github.com/priyank766/Multimodel_RAG/blob/main/Screenshot%202025-08-01%20222421.png)
 
 ---
 
